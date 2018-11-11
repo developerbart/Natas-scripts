@@ -24,7 +24,7 @@ def blind_grep():
                 if ascii_value == 58:
                     ascii_value = ascii_value + 7
                 elif ascii_value == 91:
-                    ascii_valuie = ascii_value + 6
+                    ascii_value = ascii_value + 6
     return True
 
 blind_grep()
